@@ -4,3 +4,13 @@
 ## Train Your First Model in 10 Minutes
 ### House Prices prediction with Tensorflow regression model. 🏠
 #### From data gathering and preparation to model training and evaluation
+
+## what does this notebook contains!
+### 1. Download data from Kaggel.
+### 2. Feature engineering the data
+### 3. Prepare the data for ML
+### 4. Train a regression model with TensorFlow
+  * Build the model
+  * Evaluate the model
+  * Make predictions
+### 5. Summary
